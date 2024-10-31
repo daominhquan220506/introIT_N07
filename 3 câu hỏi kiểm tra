@@ -1,0 +1,61 @@
+``` 
+Câu 1: hãy đưa ra một số tình huống làm lộ lọt các thông tin cá nhân
+-Nhấp vào liên kết lừa đảo :Kẻ tấn công giả mạo email, tin nhắn, hoặc trang web yêu cầu người dùng cung cấp thông tin cá nhân như tài khoản, mật khẩu hoặc mã OTP.
+-Sử dụng mật khẩu yếu hoặc dễ đoán: Mật khẩu yếu hoặc sử dụng cùng một mật khẩu cho nhiều tài khoản sẽ khiến người dùng dễ bị kẻ gian xâm nhập vào tài khoản và lấy cắp thông tin
+-Cài đặt ứng dụng không rõ nguồn gốc: Một số ứng dụng có thể chứa mã độc hoặc yêu cầu quyền truy cập không cần thiết, cho phép kẻ xấu lấy cắp thông tin cá nhân từ điện thoại hoặc máy tính.
+-Chia sẻ quá nhiều thông tin trên mạng xã hội: Việc chia sẻ thông tin cá nhân như ngày sinh, địa chỉ, số điện thoại, ảnh cá nhân... sẽ giúp kẻ xấu dễ dàng thu thập và sử dụng để lừa đảo hoặc giả mạo danh tính.
+-Bị rò rỉ thông tin từ các công ty hoặc tổ chức: Nếu một công ty mà người dùng cung cấp thông tin cá nhân (như ngân hàng, bệnh viện) bị hack, thông tin cá nhân có thể bị lộ và sử dụng vào mục đích xấu.
+-Làm rơi hoặc mất thiết bị chứa thông tin: Nếu thiết bị (điện thoại, laptop, USB...) bị mất hoặc đánh cắp mà không được bảo vệ bằng mật khẩu hoặc mã hóa, người khác có thể truy cập vào dữ liệu bên trong.
+-Trả lời khảo sát trực tuyến không đáng tin cậy: Một số khảo sát yêu cầu thông tin cá nhân có thể là cái bẫy để thu thập dữ liệu người dùng.
+```
+```
+Câu 2: Em có biết hành vi lừa đảo trên mạng và cách thức tội phạm thực hành vi lừa đảo?
+1. Lừa đảo qua Email, SMS, và Website giả mạo (Phishing)
+Cách thức: Kẻ xấu gửi email, tin nhắn SMS hoặc tạo các trang web giả mạo, thường có giao diện rất giống với các trang web chính thống (ngân hàng, công ty thương mại điện tử, dịch vụ trực tuyến...). Nội dung lừa đảo thường yêu cầu người dùng đăng nhập, xác nhận thông tin tài khoản hoặc cung cấp mã OTP.
+Mục tiêu: Đánh cắp tên đăng nhập, mật khẩu, số tài khoản, mã OTP hoặc thông tin cá nhân nhạy cảm.
+2. Lừa đảo qua mạng xã hội (Social Engineering)
+Cách thức: Tội phạm giả danh là người quen, nhân viên hỗ trợ của công ty hoặc tổ chức, sau đó tiếp cận nạn nhân qua mạng xã hội, tin nhắn hoặc gọi điện. Họ có thể giả vờ là bạn bè, nhân viên ngân hàng, hoặc đại diện của một tổ chức uy tín để tạo niềm tin và yêu cầu cung cấp thông tin cá nhân hoặc chuyển tiền.
+Mục tiêu: Chiếm đoạt tiền, thông tin cá nhân, hoặc truy cập vào tài khoản mạng xã hội của nạn nhân.
+3. Lừa đảo qua phần mềm độc hại (Malware)
+Cách thức: Kẻ xấu lây nhiễm phần mềm độc hại vào thiết bị của nạn nhân qua email, ứng dụng hoặc trang web chứa mã độc. Phần mềm này có thể ghi lại thao tác bàn phím (keylogger), đánh cắp dữ liệu, hoặc mã hóa dữ liệu và yêu cầu tiền chuộc (ransomware).
+Mục tiêu: Đánh cắp dữ liệu nhạy cảm (mật khẩu, số thẻ tín dụng) hoặc tống tiền nạn nhân.
+4. Lừa đảo qua quảng cáo trực tuyến và tin tức giả (Fake Ads & Fake News)
+Cách thức: Tội phạm tạo quảng cáo giả hoặc tin tức giả để thu hút sự chú ý của người dùng. Những quảng cáo hoặc tin tức này có thể mời gọi đầu tư vào các dự án không có thật, trúng thưởng giả hoặc yêu cầu nhấp vào liên kết để tải phần mềm (có chứa mã độc).
+Mục tiêu: Lấy cắp thông tin thẻ tín dụng, dụ nạn nhân đầu tư hoặc cài đặt phần mềm độc hại.
+5. Lừa đảo qua cuộc gọi điện thoại (Vishing)
+Cách thức: Tội phạm giả danh là nhân viên ngân hàng, công an, nhân viên thu hồi nợ hoặc một cơ quan chính phủ và gọi điện thoại đe dọa nạn nhân rằng họ có liên quan đến tội phạm, nợ, hoặc cần xác minh tài khoản khẩn cấp.
+Mục tiêu: Lừa nạn nhân cung cấp thông tin cá nhân, số tài khoản hoặc chuyển tiền.
+6. Lừa đảo đầu tư và mô hình đa cấp (Ponzi/Pyramid Scheme)
+Cách thức: Kẻ xấu lôi kéo người khác tham gia vào các dự án đầu tư có lợi nhuận "cao bất thường" hoặc chương trình kinh doanh đa cấp. Thường thì các chương trình này chỉ lấy tiền của người tham gia mới để trả cho người tham gia trước, và cuối cùng sẽ sụp đổ.
+Mục tiêu: Chiếm đoạt tiền đầu tư của người tham gia.
+7. Lừa đảo mua sắm trực tuyến (Online Shopping Scam)
+Cách thức: Tội phạm tạo ra các trang web mua sắm giả hoặc tài khoản bán hàng trên các nền tảng mua sắm trực tuyến và đưa ra các sản phẩm giá rẻ hoặc không có thật để thu hút người mua. Sau khi thanh toán, nạn nhân không nhận được hàng hoặc nhận hàng kém chất lượng.
+Mục tiêu: Chiếm đoạt tiền mua sắm của người dùng.
+-Biện pháp phòng tránh lừa đảo trên mạng
+Kiểm tra kỹ nguồn gốc email, tin nhắn, và trang web: Không nhấp vào liên kết lạ và không cung cấp thông tin cá nhân nếu không chắc chắn về nguồn gốc.
+Sử dụng mật khẩu mạnh và xác thực hai yếu tố: Bảo mật tài khoản bằng cách sử dụng mật khẩu phức tạp và kích hoạt xác thực hai yếu tố nếu có.
+Tránh chia sẻ thông tin cá nhân trên mạng xã hội: Hạn chế đăng tải thông tin như ngày sinh, địa chỉ, số điện thoại.
+Cài đặt và cập nhật phần mềm bảo mật: Cài đặt phần mềm diệt virus và tránh tải ứng dụng hoặc tài liệu từ nguồn không đáng tin.
+Không tin vào lợi nhuận "quá tốt để là thật": Cảnh giác với các lời hứa lợi nhuận cao bất thường hoặc đầu tư vào các dự án không rõ ràng.
+```
+```
+Câu 3:e hiểu thế nào là virus? có tất cả phần mềm độc hại đều là virus
+Hiểu một cách đơn giản, virus máy tính là một chương trình hoặc đoạn mã độc hại được thiết kế để xâm nhập vào hệ thống máy tính, tự sao chép và lây lan sang các tệp và thiết bị khác. Virus có thể gây ra nhiều thiệt hại, từ làm chậm hệ thống, phá hoại dữ liệu, đến làm hỏng phần mềm hoặc chiếm quyền điều khiển của máy tính.
+
+Tuy nhiên, không phải tất cả các phần mềm độc hại (malware) đều là virus. Virus chỉ là một loại của phần mềm độc hại. Có nhiều loại phần mềm độc hại khác, bao gồm:
+
+Worm (Sâu máy tính): Khác với virus, worm có thể tự nhân bản và lây lan qua mạng mà không cần gắn vào tệp tin nào. Worm thường gây quá tải mạng và làm chậm hệ thống.
+
+Trojan (Trojan horse): Trojan thường ẩn mình trong các phần mềm dường như an toàn và không tự lây lan. Khi người dùng tải về và chạy chương trình, trojan sẽ tạo "cửa hậu" cho phép hacker xâm nhập vào hệ thống.
+
+Ransomware: Phần mềm này mã hóa dữ liệu và đòi tiền chuộc để mở khóa. Ví dụ nổi tiếng là WannaCry, lây lan toàn cầu năm 2017.
+
+Spyware (Phần mềm gián điệp): Được cài đặt để thu thập thông tin cá nhân mà người dùng không biết, như thông tin tài khoản, hoạt động trực tuyến, hay dữ liệu nhạy cảm.
+
+Adware (Phần mềm quảng cáo): Phần mềm tự động hiển thị quảng cáo trên máy tính. Dù không gây hại trực tiếp, adware làm phiền người dùng và thường đi kèm các phần mềm độc hại khác.
+
+Rootkit: Phần mềm giúp hacker ẩn các hoạt động độc hại trong hệ thống và chiếm quyền truy cập cao nhất vào máy tính, làm cho việc phát hiện và gỡ bỏ rất khó khăn.
+
+Như vậy, virus là một dạng cụ thể của phần mềm độc hại, và có nhiều loại malware khác nhau với cơ chế hoạt động và mục tiêu gây hại khác nhau.
+```
+
