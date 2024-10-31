@@ -14,12 +14,13 @@ This is for Intro2IT N07 at PKA
   +RAM
   +CPU
 ```
+```
 ## Chương 2
 Google Search: Bạn có thể tìm kiếm thông tin cụ thể, tin tức mới nhất, hoặc dữ liệu từ nhiều nguồn khác nhau. Chỉ cần nhập từ khóa vào ô tìm kiếm của Google.
 
 ChatGPT: Sau khi tìm kiếm, nếu bạn cần giải thích hoặc thông tin thêm, bạn có thể hỏi tôi. Tôi có thể giúp bạn tóm tắt, giải thích khái niệm, hoặc cung cấp thông tin bổ sung dựa trên những gì bạn tìm thấy.
-
-
+```
+```
  ## Chương 3
   -Hệ thống số
   Hệ thập phân (Decimal): Dùng cơ số 10, bao gồm các chữ số từ 0 đến 9. Đây là hệ thống số mà chúng ta sử dụng hàng ngày.
@@ -29,6 +30,8 @@ Hệ nhị phân (Binary): Dùng cơ số 2, chỉ có hai chữ số 0 và 1. �
 Hệ bát phân (Octal): Dùng cơ số 8, bao gồm các chữ số từ 0 đến 7. Hệ này ít phổ biến hơn nhưng vẫn được sử dụng trong một số lĩnh vực lập trình.
 
 Hệ thập lục phân (Hexadecimal): Dùng cơ số 16, bao gồm các chữ số từ 0 đến 9 và các ký tự A đến F (tương ứng với giá trị 10 đến 15). Hệ này thường được sử dụng trong lập trình máy tính.
+```
+```
   ## Chương 4 
   - Linux
   - 1. Đặc điểm nổi bật:
@@ -50,6 +53,8 @@ Linux hỗ trợ rất nhiều ứng dụng, từ văn phòng (LibreOffice) đ�
 
 5. Sử dụng:
 Linux được sử dụng rộng rãi trên máy chủ, máy tính cá nhân, thiết bị nhúng và trong các lĩnh vực như điện toán đám mây và siêu máy tính.
+```
+```
 ## Chương 5
 - Git và Github
 - Git và GitHub là hai công cụ hỗ trợ quản lý mã nguồn và hợp tác trong phát triển phần mềm, nhưng chúng có các chức năng khác nhau và thường đi cùng nhau.
@@ -67,5 +72,6 @@ Tính năng của GitHub:
 +Lưu trữ repository trực tuyến và dễ dàng chia sẻ mã nguồn.
 +Cung cấp công cụ hợp tác: tạo, review pull request, thảo luận, báo lỗi (issues), và quản lý dự án.
 +Tích hợp với các công cụ CI/CD, và nhiều dịch vụ bên thứ ba.
+```
 
   
