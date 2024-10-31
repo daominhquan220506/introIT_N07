@@ -2,6 +2,7 @@
 This is for Intro2IT N07 at PKA
 
 # Nội dung học phần 
+```
 ## Chương 1
 - Các thành tố của máy tính
 - Phần cứng: hardware
@@ -12,6 +13,7 @@ This is for Intro2IT N07 at PKA
 - Phần mềm: software
   +RAM
   +CPU
+```
 ## Chương 2
 Google Search: Bạn có thể tìm kiếm thông tin cụ thể, tin tức mới nhất, hoặc dữ liệu từ nhiều nguồn khác nhau. Chỉ cần nhập từ khóa vào ô tìm kiếm của Google.
 
